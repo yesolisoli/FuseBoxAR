@@ -1,2 +1,9 @@
 Library/
 obj/
+.vs/
+Temp/
+
+.DS_Store
+.vsconfig
+Assembly-CSharp.csproj
+FuseBoxAR.sln

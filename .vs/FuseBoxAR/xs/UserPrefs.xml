@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D49710F5-BD8E-BAB4-ADDB-2FDA78AC5D47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/Variables/VariableDeclarations.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/Variables/VariableDeclarations.cs" Line="63" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FuseBoxAR" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a528ff92-a81d-43d0-a4f3-ceb3676c5815" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
